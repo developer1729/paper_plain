@@ -1,2 +1,2 @@
-# paper plains
+# paper planes
 paper planes

@@ -1,2 +1,2 @@
-# paper_plain
+# paper plains
 paper planes
